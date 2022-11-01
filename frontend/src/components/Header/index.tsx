@@ -8,7 +8,7 @@ function Header() {
             <h1>DSMeta</h1>
             <p>
               Desenvolvido por
-              <a href="https://www.instagram.com/devsuperior.ig">@devsuperior.ig</a>
+              <a href="Semana Spring React"> Alan Rodrigues /Projeto Semana Spring React /Nelio Alves </a>
             </p>
         </div>
     </header>
@@ -16,4 +16,4 @@ function Header() {
    }
    
    export default Header;
-   
+   //<a href="https://www.instagram.com/devsuperior.ig">@devsuperior.ig</a>
